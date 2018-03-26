@@ -1,0 +1,44 @@
+body {
+	background-image: url("http://bluewallpaperbackground.weebly.com/uploads/1/9/7/6/19768865/2324599_orig.jpg");;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-family: 'Montserrat', sans-serif;
+	padding: 5%;
+	margin-left: 10%;
+}
+
+h1 {
+	color: #ffffff;
+	text-align: left;
+	padding-left: 10%;
+}
+
+#content {
+	background: rgba(61, 230, 218, 0.6);
+}
+
+ul {
+	background: rgba(61, 230, 218, 0.6);
+	margin: 0px;
+	padding: 0;
+	list-style-type: none;
+	position: fixed;
+}
+
+#content {
+	float: right;
+	padding: 20px;
+}
+
+li a {
+	color: black;
+	display: block;
+	padding:10%;
+	width: 80%;
+	text-decoration: none;
+}
+
+li a:hover{
+	background: rgba(61, 230, 218, 1);
+}
+
